@@ -10,7 +10,7 @@ const Canvas = (props) => {
       <button onClick={backBtnHandler}>Back </button>
       <br />
       NOW DISPLAYING {props.itemChosen}
-      Testing git
+      Testing git!!
     </div>
   );
 };
